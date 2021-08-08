@@ -4,6 +4,7 @@ The program writing hello world
 I'm kwena komape, a third year student at University of Cape Town
 studying towards Bachelor of science in Computer Science and Computer Engineering.
 
-I'm 21 years old
+I'm 21 years
+I went to Boetse Secondary School
 
 
